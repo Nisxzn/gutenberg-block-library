@@ -1,0 +1,7 @@
+{
+  "apiVersion": 2,
+  "name": "gbl/api-posts",
+  "title": "API Posts Block",
+  "category": "widgets",
+  "editorScript": "file:./index.js"
+}

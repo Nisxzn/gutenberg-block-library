@@ -1,0 +1,15 @@
+{
+  "apiVersion": 2,
+  "name": "gbl/faq",
+  "title": "FAQ Block",
+  "category": "widgets",
+  "attributes": {
+    "question": {
+      "type": "string"
+    },
+    "answer": {
+      "type": "string"
+    }
+  },
+  "editorScript": "file:./index.js"
+}

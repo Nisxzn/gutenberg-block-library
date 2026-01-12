@@ -1,0 +1,11 @@
+{
+  "apiVersion": 2,
+  "name": "gbl/cta",
+  "title": "CTA Block",
+  "category": "widgets",
+  "attributes": {
+    "text": { "type": "string" },
+    "button": { "type": "string" }
+  },
+  "editorScript": "file:./index.js"
+}
