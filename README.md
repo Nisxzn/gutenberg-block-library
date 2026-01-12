@@ -187,32 +187,5 @@ WordPress is released under the GPL v2 (or later) license. See [license.txt](lic
 - [WordPress Developer Resources](https://developer.wordpress.org/)
 - [XAMPP Documentation](https://www.apachefriends.org/docs/)
 
-## 📞 Support
 
-For WordPress support:
-- [WordPress Support Forums](https://wordpress.org/support/forums/)
-- [WordPress Stack Exchange](https://wordpress.stackexchange.com/)
-
-## ⚠️ Troubleshooting
-
-### Common Issues
-
-**White Screen of Death**
-- Enable WP_DEBUG in wp-config.php
-- Check error logs in wp-content/debug.log
-
-**Database Connection Error**
-- Verify database credentials in wp-config.php
-- Ensure MySQL service is running in XAMPP
-
-**Permalink Issues**
-- Check .htaccess file exists and is writable
-- Reset permalinks in Settings → Permalinks
-
-**Plugin/Theme Conflicts**
-- Deactivate all plugins and switch to default theme
-- Reactivate one by one to identify the issue
-
----
-
-**Made with ❤️ using WordPress**
+**Made by nisxzn with ❤️ using WordPress**
