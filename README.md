@@ -188,4 +188,4 @@ WordPress is released under the GPL v2 (or later) license. See [license.txt](lic
 - [XAMPP Documentation](https://www.apachefriends.org/docs/)
 
 
-**Made by nisxzn with ❤️ using WordPress**
+**Made by nisxzn using WordPress**
